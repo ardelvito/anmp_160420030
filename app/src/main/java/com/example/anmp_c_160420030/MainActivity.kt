@@ -11,6 +11,5 @@ class MainActivity : AppCompatActivity() {
 
             //todo testing git
             //testing 2nd commit
-            //testing
     }
 }
