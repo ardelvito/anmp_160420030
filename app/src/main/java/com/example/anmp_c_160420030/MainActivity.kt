@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
 
             //todo testing git
-            //testing
+            //testing 2nd commit
     }
 }
