@@ -14,6 +14,9 @@
         android:theme="@style/Theme.ANMP_C_160420030"
         tools:targetApi="31">
         <activity
+            android:name=".ChangeFeatureActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
